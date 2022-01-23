@@ -1,0 +1,175 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 51135
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAuthCache).
+log4j:WARN Please initialize the log4j system properly.
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+End checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername admin
+End appending additional signatures c163f74a-5e8c-480c-9942-a6be7caf8b6d__admin
+End getting machine ID on Windows bb4fdfe6e46f7025d20b3441701dd41a
+Activating credentials...
+Fetching organizations...
+Retrievinng token using credentials...
+Fetching organizations using token...
+0 organization(s) fetched
+Start check license task
+All launchers terminated
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+Latest plugins responses: []
+Katalon version: 8.2.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.2.5&appType=KSE&licenseType=TRIAL
+
+Thu Jan 20 18:52:37 ICT 2022
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: javax.net.ssl.SSLException: Connection reset
+	at com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception.wrap(AnalyticsApiExeception.java:23)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:153)
+	at com.kms.katalon.integration.analytics.providers.TestOpsFeatureActivatorImpl.connect(TestOpsFeatureActivatorImpl.java:45)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.getLicenseFromTestOps(ActivationInfoCollector.java:550)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.activate(ActivationInfoCollector.java:437)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.checkAndMarkActivatedForGUIMode(ActivationInfoCollector.java:139)
+	at com.kms.katalon.core.application.ApplicationStaupHandler.lambda$2(ApplicationStaupHandler.java:91)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.lambda$1(ActivationInfoCollector.java:923)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.net.ssl.SSLException: Connection reset
+	at sun.security.ssl.Alert.createSSLException(Alert.java:127)
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:348)
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:291)
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:286)
+	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:142)
+	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1202)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1111)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:398)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:370)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:394)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:647)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:680)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:151)
+	... 13 more
+	Suppressed: java.net.SocketException: Connection reset by peer: socket write error
+		at java.net.SocketOutputStream.socketWrite0(Native Method)
+		at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+		at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+		at sun.security.ssl.SSLSocketOutputRecord.encodeAlert(SSLSocketOutputRecord.java:81)
+		at sun.security.ssl.TransportContext.fatal(TransportContext.java:379)
+		... 36 more
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:476)
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:470)
+	at sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160)
+	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:110)
+	... 33 more
+
+
+
+Thu Jan 20 18:52:37 ICT 2022
+Activation collection is failed
+com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception: javax.net.ssl.SSLException: Connection reset
+	at com.kms.katalon.integration.analytics.exceptions.AnalyticsApiExeception.wrap(AnalyticsApiExeception.java:23)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:153)
+	at com.kms.katalon.integration.analytics.providers.TestOpsFeatureActivatorImpl.connect(TestOpsFeatureActivatorImpl.java:45)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.getLicenseFromTestOps(ActivationInfoCollector.java:550)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.activate(ActivationInfoCollector.java:437)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.checkAndMarkActivatedForGUIMode(ActivationInfoCollector.java:139)
+	at com.kms.katalon.core.application.ApplicationStaupHandler.lambda$2(ApplicationStaupHandler.java:91)
+	at com.kms.katalon.application.utils.ActivationInfoCollector.lambda$1(ActivationInfoCollector.java:923)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.net.ssl.SSLException: Connection reset
+	at sun.security.ssl.Alert.createSSLException(Alert.java:127)
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:348)
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:291)
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:286)
+	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:142)
+	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1202)
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1111)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:398)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:370)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:394)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:353)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:647)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.executeRequest(AnalyticsApiProvider.java:680)
+	at com.kms.katalon.integration.analytics.providers.AnalyticsApiProvider.requestToken(AnalyticsApiProvider.java:151)
+	... 13 more
+	Suppressed: java.net.SocketException: Connection reset by peer: socket write error
+		at java.net.SocketOutputStream.socketWrite0(Native Method)
+		at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+		at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+		at sun.security.ssl.SSLSocketOutputRecord.encodeAlert(SSLSocketOutputRecord.java:81)
+		at sun.security.ssl.TransportContext.fatal(TransportContext.java:379)
+		... 36 more
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:476)
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:470)
+	at sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160)
+	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:110)
+	... 33 more
+
+
+All launchers terminated
+Start clean up session
+End check license task
+End clean up session
+Start release license task
+License released
+End release license task

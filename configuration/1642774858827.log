@@ -1,0 +1,131 @@
+Not a valid list position.
+Could not find element with Id 'katalon.composer.objectrepository.handledmenuitem.spyweb'
+Could not find element with Id 'com.kms.katalon.composer.integration.analytics.handledtoolitem.katalonTestOps'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Could not find element with Id 'com.kms.katalon.composer.mobile.dynamicmenucontribution.ios'
+Warning: NLS unused message: Key in: com.kms.katalon.composer.project.constants.composerProjectMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS missing message: BTN_ADDTESTSUITE in: com.kms.katalon.composer.testcase.constants.composerTestcaseMessages
+Warning: NLS unused message: Key in: com.kms.katalon.composer.objectrepository.constant.composerObjectRepositoryMessages
+WebView Server has been started on port 55486
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAuthCache).
+log4j:WARN Please initialize the log4j system properly.
+Warning: NLS missing message: PA_URL_SUPPORT_PORTAL in: com.kms.katalon.constants.messages
+Warning: NLS missing message: URL_KATALON_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: OFFLINE_ACTIVATION in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ENTERPRISE_TRIAL_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: ActivationDialogV2_LBL_ENTERPRISE_LICENSE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: DIALOG_TITLE_FIRST_TIME_USE_SURVEY in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_YES_CONTINUE_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_NO_QUIT_USING in: com.kms.katalon.constants.messages
+Warning: NLS missing message: BTN_SEND in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUESTION_WILL_CONTINUE_TO_USE in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON in: com.kms.katalon.constants.messages
+Warning: NLS missing message: MSG_QUIT_USING_KATALON_REASON_PLACEHOLDER in: com.kms.katalon.constants.messages
+Start checking and mark activated for GUI mode
+Start getting machine ID on Windows
+Start appending additional signatures
+hardwareSerialNumber 
+osDependentUsername admin
+End appending additional signatures c163f74a-5e8c-480c-9942-a6be7caf8b6d__admin
+End getting machine ID on Windows bb4fdfe6e46f7025d20b3441701dd41a
+End checking and mark activated for GUI mode
+Start check license task
+Warning: NLS unused message: LBL_DEFAULT_LOCATOR_SELECTION_AREA in: com.katalon.plugin.smart_xpath.constant.SmartXpathMessages
+Latest plugins responses: []
+Katalon version: 8.2.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.2.5&appType=KSE&licenseType=TRIAL
+All launchers terminated
+Latest plugins responses: []
+Katalon version: 8.2.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.2.5&appType=KSE&licenseType=TRIAL
+Warning: NLS missing message: BTN_UPLOAD in: com.kms.katalon.composer.integration.analytics.constants.composerIntegrationAnalyticsMessages
+All launchers terminated
+Latest plugins responses: []
+Katalon version: 8.2.5
+Plugin info URL: https://store.katalon.com/api/products/ks?appVersion=8.2.5&appType=KSE&licenseType=TRIAL
+
+Fri Jan 21 21:41:57 ICT 2022
+java.lang.NumberFormatException: null
+	at java.lang.Integer.parseInt(Integer.java:542)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at com.kms.katalon.application.utils.EntityTrackingHelper$1.run(EntityTrackingHelper.java:23)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+Warning: NLS missing message: ConsoleMain_MSG_DEVOPS_LICENSE_COMPATIBILITY in: com.kms.katalon.execution.constants.executionMessages
+Warning: NLS missing message: ConsoleMain_MSG_NON_DEVOPS_LICENSE_COMPATIBLITY in: com.kms.katalon.execution.constants.executionMessages
+Launcher status after execution process completed: Running
+Launcher status after execution process completed: Running
+Warning: NLS unused message: PREF_LBL_ACTIVE_BROWSER_PORT_DO_NOT_SHOW_WARNING_DIALOG in: com.kms.katalon.objectspy.constants.objectspyMessages
+Jan 21, 2022 10:03:06 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 21, 2022 10:03:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Launcher status after execution process completed: Running
+Jan 22, 2022 9:47:34 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 9:47:38 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 9:47:43 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 22, 2022 9:47:43 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 22, 2022 9:49:00 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 9:49:03 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 22, 2022 10:44:55 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 10:44:58 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 22, 2022 10:46:24 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 10:46:26 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 22, 2022 3:43:38 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 3:43:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Launcher status after execution process completed: Running
+Jan 22, 2022 4:09:57 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 4:09:59 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 22, 2022 4:27:13 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 4:27:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Launcher status after execution process completed: Running
+Jan 22, 2022 9:55:01 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 9:55:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 22, 2022 9:55:59 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 9:56:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 22, 2022 9:56:44 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 9:56:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 22, 2022 9:57:09 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 9:57:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3254a6fb[Thông tin tài khoản - HOCMAI]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3254a6fb[Thông tin tài khoản - HOCMAI]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@514cd93b[Object Repository/Page_Thng tin ti khon - HOCMAI/input_Vui lng nhp vo s di ng ca bn_addphonetxt]
+CodeSelectRequestor: Could not proceed due to null declaring type for org.codehaus.groovy.ast.expr.ConstantExpression@3254a6fb[Thông tin tài khoản - HOCMAI]
+Jan 22, 2022 10:43:54 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 10:43:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 22, 2022 10:49:53 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Jan 22, 2022 10:49:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
